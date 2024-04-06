@@ -12,3 +12,7 @@
 
 ## SQL Projects
 Check out my SQL Projects here (https://github.com/bisma-azeem-13/Projects.ipynb/tree/main/SQL%20Projects)
+
+## Machine Learning Internship Projects
+Check out my ML Internship Projects here ([https://github.com/bisma-azeem-13/Projects.ipynb/tree/main/SQL%20Projects](https://github.com/bisma-azeem-13/Projects.ipynb/tree/main/Internship%20Projects))
+
